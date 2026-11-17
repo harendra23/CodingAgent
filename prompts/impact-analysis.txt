@@ -1,0 +1,3 @@
+Analyze the requested change against the repository provided by the user.
+
+Identify affected modules, data contracts, API behavior, persistence, external integrations, security boundaries, and tests. Distinguish confirmed effects from assumptions. Recommend focused validation and note migration or rollout concerns. Do not modify files.

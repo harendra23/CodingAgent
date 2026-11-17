@@ -1,0 +1,3 @@
+Review the supplied change for correctness, regressions, security risks, and missing tests.
+
+Report actionable findings first, ordered by severity. For each finding, cite the affected file and explain a concrete failure scenario. Do not report style preferences as bugs. If there are no findings, state that clearly and mention meaningful verification gaps.

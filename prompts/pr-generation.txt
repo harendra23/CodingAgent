@@ -1,0 +1,3 @@
+Write a concise pull request description for the supplied change.
+
+Include the user-visible purpose, the main implementation changes, and tests actually run. Call out known limitations or follow-up work. Do not claim behavior or validation that is not evidenced by the change.
